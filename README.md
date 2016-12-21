@@ -12,3 +12,26 @@ _FRONTEND ENGENIEER_
 | Nombre | Jose Alberto Carretero Sanchez |
 | Fecha de nacimiento | 12/01/1981 |
 | Dirección | Pablo picasso, Alcorcón |
+
+
+* Skills and interests
+```javascript
+const skills=[
+    "Javascript",
+    "ECMAScript",
+    "CSS3",
+    "Metodologías Modulares en CSS",
+    "Webpack",
+    "Gulp",
+    "Testing JS",
+    "GIT"
+]
+
+const interests = [
+    "Meetups",
+    "Geeks",
+    "Gadgets",
+    "Technology",
+    "Clean code"
+];
+```
