@@ -6,14 +6,6 @@
 _FRONTEND ENGENIEER_
 > Front End Developer // js, html5, css3 // Frameworks mvc // UI + UX 
 
-
-|...|...|
-|:-------|:---------:|
-| Nombre | Jose Alberto Carretero Sanchez |
-| Fecha de nacimiento | 12/01/1981 |
-| Dirección | Pablo picasso, Alcorcón |
-
-
 * Skills and interests
 ```javascript
 const skills=[
